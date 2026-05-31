@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathless-moments/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Breathless Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathless-moments/) |
+| **Get License** | [Secure Licensing Rights for Breathless Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathless-moments/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2a972970064c3aae0c8795f45fe6443bf375923654170c8bca2434fa62f074f9` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
